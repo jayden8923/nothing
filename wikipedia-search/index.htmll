@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<!--Wikipedia google custom search stuff.--!>
+<!--Trust me, I was bored.--!>
+<script>
+  (function() {
+    var cx = '014703376227529035154:f66kak9ti6c';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
