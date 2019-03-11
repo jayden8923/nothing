@@ -1,2 +1,2 @@
 // idk 
-var ok = console.log(bye);
+var ok = 'bye?';
